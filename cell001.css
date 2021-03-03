@@ -26,32 +26,17 @@
 .smr .love .wrt p u {font-size:17px; font-family:nexa; font-weight:700; text-decoration:none; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px;}
 .smr .love .stp {width:250px; height:25px; background:linear-gradient(to left, rgba(var(--col1).1), rgba(var(--col2).1)); padding:25px;font-family:nexa; font-size:12px; text-transform:uppercase; line-height:25px; position:relative; border-top:1px solid rgba(var(--a6)1); color:rgba(var(--txt)1);}
 .smr .love .stp x {width:30px; height:30px; position:absolute; right:25px; top:21px; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/46756c4bd4fc417da11303cfe76c6fe9/2536a76d6dcaf5f8-44/s75x75_c1/6644c843186d332c0037dfb0b994d0e192248ff4.png);}
-
-
-#sk-dark .smr {background-color:rgba(var(--a1)1); border:1px solid rgba(var(--a8)1);}
-#sk-dark .smr .love {background-color:rgba(var(--a1)1);}
-#sk-dark .smr .love .mnz {border-bottom:1px solid rgba(var(--a8)1);}
-#sk-dark .smr .love .mnz inf {color:rgba(var(--txt)1);}
-#sk-dark .smr .love .mnz lul {color:rgba(var(--txt)1);}
-#sk-dark .smr tag {background-color:rgba(var(--a1)1); color:rgba(var(--txt)1);}
-#sk-dark .smr .love .wrt p {border:1px solid rgba(var(--a8)1); background-color:rgba(var(--a6)1); color:rgba(var(--txt).9);}
-#sk-dark .smr .love .stp {background:linear-gradient(to left, rgba(var(--col1).2), rgba(var(--col2).2)); border-top:1px solid rgba(var(--a8)1); color:rgba(var(--txt)1);}
-
-
 .smr .love .mnz m {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/9158eb9f7fb85c3907c52db8055a3b43/1b1d99c16a2cb392-62/s75x75_c1/0f4e27d7ac747c1186c1b789f4b70bc28362fac8.png); position:absolute; top:7px; right:55px;}
 .smr .love .wrt txt {display:table; padding:15px; border:1px solid rgba(var(--a6)1); border-radius:10px; background-color:color:rgba(var(--a2)1); font-family:tt firs neue; font-size:15px; font-weight:300; color:rgba(var(--txt)1); line-height:140%; text-align:justify;}
 .smr .love .wrt txt b {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col1)1);}
 .smr .love .wrt txt i {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col2)1);}
 .smr .love .wrt txt u {font-size:17px; font-family:nexa; font-weight:700; text-decoration:none; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px;}
 .smr .love .stp y {width:30px; height:30px; position:absolute; right:25px; top:21px; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/52371b2997b6c326d41e45fe7c9ada2f/88e32e13207559ca-bd/s75x75_c1/95e9268dde73f7be42337cb283dc05ac6d8741a5.png);}
-#sk-dark .smr .love .wrt txt {border:1px solid rgba(var(--a8)1);background-color:rgba(var(--a6)1);color:rgba(var(--txt).9);}
-
 
 .smr .love .mnz n {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/5bf3771bedff07be8bf5d04c42b4f452/9f4dec9adbaa53b0-22/s75x75_c1/69cd521e25047dcef953bb5d6a85b032f2db5dbd.png); position:absolute; top:7px; right:55px;}
 .smr .love .wrt .vid {display:table; padding:15px; border:1px solid rgba(var(--a6)1); border-radius:10px; background-color:color:rgba(var(--a2)1); font-family:tt firs neue; font-size:15px; font-weight:300; color:rgba(var(--txt)1); line-height:140%; text-align:justify;}
 .smr .love .wrt .vid b {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col1)1);}
 .smr .love .wrt .vid i {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col2)1);}
 .smr .love .wrt .vid u {font-size:17px; font-family:nexa; font-weight:700; text-decoration:none; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px;}
-#sk-dark .smr .love .wrt .vid {border:1px solid rgba(var(--a8)1);background-color:rgba(var(--a6)1);color:rgba(var(--txt).9);}
 .smr .love .wrt .vid .x {width:220px; height:auto; padding-bottom:15px; margin-bottom:15px; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px; display:block}
 .smr .love .wrt .vid .x img {width:220px; height:auto; object-fit:cover; border-radius:5px;}
