@@ -1,0 +1,57 @@
+@import url(https://dl.dropbox.com/s/m2d56ji31zjfz72/stylesheet.css);
+@import url(https://dl.dropbox.com/s/ws375lwyccvh9i6/stylesheet.css);
+
+.smr {width:300px; height:auto; background-color:rgba(var(--a1)1); border-radius:20px; border:1px solid rgba(var(--a6)1); margin:25px auto; overflow:hidden; position:relative; text-align:left;}
+.smr .moons {width:300px; height:70px; background:linear-gradient(to left, rgba(var(--col1).5), rgba(var(--col2).5)); display:block;}
+.smr .love {width:300px; height:auto; background-color:rgba(var(--a1)1); border-radius:20px; margin-top:-20px;}
+.smr .love .mnz {width:250px; height:100px; padding:25px; position:relative; border-bottom:1px solid rgba(var(--a6)1);}
+.smr .img {width:50px; height:50px; position:absolute; display:block; top:30px; border-radius:5px; left:25px; object-fit:cover;}
+.smr .img img {width:50px; height:50px; object-fit:cover; border-radius:5px;}
+.smr .img1 {width:50px; height:50px; position:absolute; display:block; top:30px; border-radius:100%; left:25px; object-fit:cover;}
+.smr .img1 img {width:50px; height:50px; object-fit:cover; border-radius:100%;}
+.smr .love .mnz x {width:43px; height:43px; background-size:cover; background-position:50% 50%; background-image:var(--igz); display:block; position:absolute; top:-17px; left:30px;}
+#mobile .smr .love .mnz x {background-image:url(https://64.media.tumblr.com/77bcced0152ba822f6012e2f80beab87/e83b77f52accb873-26/s540x810/6b44d3856b144c463db9495c30c033b60a184a41.png);}
+.smr .love .mnz y {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/9e3a7343302044c723547ad64c81aad9/e84f06f99ed1234c-4f/s75x75_c1/f3f7a9efbd7d71f7fcc2c42514f3ca72ea3c2b8d.png); position:absolute; top:7px; right:25px;}
+.smr .love .mnz z {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/4c3bc952097ee3215fad189912625792/1b1d99c16a2cb392-5a/s75x75_c1/ad900b248554ec76f322cff940466d78015e2de4.png); position:absolute; top:7px; right:40px;}
+.smr .love .mnz t {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/24cb55e6e620a9bb1a5216d6813c5176/1b1d99c16a2cb392-d1/s75x75_c1/a349be1b7f2497d73f7c48b458a0855dee168978.png); position:absolute; top:7px; right:55px;}
+.smr .love .mnz inf {width:250px; height:auto; margin-top:40px; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px; display:block; font-family:nexa; font-size:25px; color:rgba(var(--txt)1); font-weight:900; letter-spacing:px; padding-bottom:px; text-transform:uppercase; padding-bottom:4px;}
+.smr .love .mnz lul {width:245px; height:auto; display:block; text-align:right; font-family:tt firs neue; font-size:10px; text-transform:uppercase; padding-top:3px; padding-right:5px; color:rgba(var(--txt)1);}
+.smr .love .mnz lul:after {content:''; background-image:url(https://64.media.tumblr.com/95bbdd17cb88aa9b9cc70aa546a26797/3d5d6324db3b1b5c-73/s75x75_c1/46a6ee5a3755d63885f12ba42b1bf144fd2a00f0.png); width:10px; height:10px; display:inline-block; background-size:cover; background-position:50% 50%; position:relative; top:1px; margin-left:3px;}
+.smr .love .wrt {width:250px; height:auto; padding:25px;}
+.smr tag {width:250px; height:30px; background-color:rgba(var(--a1)1); font-family:nexa; font-size:20px; font-weight:500; position:absolute; top:111px; line-height:20px; height:20px; padding-top:5px; text-transform:uppercase; letter-spacing:-1px; color:rgba(var(--txt)1); left:25px; text-align:left;}
+.smr .love .wrt p {display:table; padding:15px; border:1px solid rgba(var(--a6)1); border-radius:20px 20px 20px 0px; background-color:color:rgba(var(--a2)1); font-family:tt firs neue; font-size:15px; font-weight:300; color:rgba(var(--txt)1); line-height:100%; text-align:justify;}
+.smr .love .wrt p img {max-width:220px; height:auto; object-fit:cover; border-radius:5px;}
+.smr .love .wrt p b {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col1)1);}
+.smr .love .wrt p i {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col2)1);}
+.smr .love .wrt p u {font-size:17px; font-family:nexa; font-weight:700; text-decoration:none; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px;}
+.smr .love .stp {width:250px; height:25px; background:linear-gradient(to left, rgba(var(--col1).1), rgba(var(--col2).1)); padding:25px;font-family:nexa; font-size:12px; text-transform:uppercase; line-height:25px; position:relative; border-top:1px solid rgba(var(--a6)1); color:rgba(var(--txt)1);}
+.smr .love .stp x {width:30px; height:30px; position:absolute; right:25px; top:21px; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/46756c4bd4fc417da11303cfe76c6fe9/2536a76d6dcaf5f8-44/s75x75_c1/6644c843186d332c0037dfb0b994d0e192248ff4.png);}
+
+
+#sk-dark .smr {background-color:rgba(var(--a1)1); border:1px solid rgba(var(--a8)1);}
+#sk-dark .smr .love {background-color:rgba(var(--a1)1);}
+#sk-dark .smr .love .mnz {border-bottom:1px solid rgba(var(--a8)1);}
+#sk-dark .smr .love .mnz inf {color:rgba(var(--txt)1);}
+#sk-dark .smr .love .mnz lul {color:rgba(var(--txt)1);}
+#sk-dark .smr tag {background-color:rgba(var(--a1)1); color:rgba(var(--txt)1);}
+#sk-dark .smr .love .wrt p {border:1px solid rgba(var(--a8)1); background-color:rgba(var(--a6)1); color:rgba(var(--txt).9);}
+#sk-dark .smr .love .stp {background:linear-gradient(to left, rgba(var(--col1).2), rgba(var(--col2).2)); border-top:1px solid rgba(var(--a8)1); color:rgba(var(--txt)1);}
+
+
+.smr .love .mnz m {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/9158eb9f7fb85c3907c52db8055a3b43/1b1d99c16a2cb392-62/s75x75_c1/0f4e27d7ac747c1186c1b789f4b70bc28362fac8.png); position:absolute; top:7px; right:55px;}
+.smr .love .wrt txt {display:table; padding:15px; border:1px solid rgba(var(--a6)1); border-radius:10px; background-color:color:rgba(var(--a2)1); font-family:tt firs neue; font-size:15px; font-weight:300; color:rgba(var(--txt)1); line-height:140%; text-align:justify;}
+.smr .love .wrt txt b {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col1)1);}
+.smr .love .wrt txt i {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col2)1);}
+.smr .love .wrt txt u {font-size:17px; font-family:nexa; font-weight:700; text-decoration:none; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px;}
+.smr .love .stp y {width:30px; height:30px; position:absolute; right:25px; top:21px; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/52371b2997b6c326d41e45fe7c9ada2f/88e32e13207559ca-bd/s75x75_c1/95e9268dde73f7be42337cb283dc05ac6d8741a5.png);}
+#sk-dark .smr .love .wrt txt {border:1px solid rgba(var(--a8)1);background-color:rgba(var(--a6)1);color:rgba(var(--txt).9);}
+
+
+.smr .love .mnz n {width:10px; height:10px; display:block; background-size:cover; background-position:50% 50%; background-image:url(https://64.media.tumblr.com/5bf3771bedff07be8bf5d04c42b4f452/9f4dec9adbaa53b0-22/s75x75_c1/69cd521e25047dcef953bb5d6a85b032f2db5dbd.png); position:absolute; top:7px; right:55px;}
+.smr .love .wrt .vid {display:table; padding:15px; border:1px solid rgba(var(--a6)1); border-radius:10px; background-color:color:rgba(var(--a2)1); font-family:tt firs neue; font-size:15px; font-weight:300; color:rgba(var(--txt)1); line-height:140%; text-align:justify;}
+.smr .love .wrt .vid b {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col1)1);}
+.smr .love .wrt .vid i {font-size:17px; font-family:nexa; font-weight:700; color:rgba(var(--col2)1);}
+.smr .love .wrt .vid u {font-size:17px; font-family:nexa; font-weight:700; text-decoration:none; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px;}
+#sk-dark .smr .love .wrt .vid {border:1px solid rgba(var(--a8)1);background-color:rgba(var(--a6)1);color:rgba(var(--txt).9);}
+.smr .love .wrt .vid .x {width:220px; height:auto; padding-bottom:15px; margin-bottom:15px; background:linear-gradient(to right, rgba(var(--col1)1), rgba(var(--col2)1)) left  bottom  no-repeat; background-size:100% 1px; display:block}
+.smr .love .wrt .vid .x img {width:220px; height:auto; object-fit:cover; border-radius:5px;}
